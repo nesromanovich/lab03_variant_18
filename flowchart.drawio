@@ -1,0 +1,305 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="pKbvGdHSwsmTGXS2BwNU">
+    <mxGraphModel dx="404" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="100" x="360" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--5" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--3" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--8" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--4" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--9" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="нет" vertex="1">
+          <mxGeometry relative="1" x="-0.0529" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--13" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--4" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.391;entryY=-0.01;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;entryPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--14" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="да" vertex="1">
+          <mxGeometry relative="1" x="-0.4284" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;N в 1..50, V&amp;gt;0, A&amp;gt;0?&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="320" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--6" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="50" as="sourcePoint" />
+            <mxPoint x="410" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Ввести N, V, A&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="146" x="337" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--11" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--7" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Сообщение об ошибке&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Конец&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="570" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--16" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--12" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.399;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin: 0px !important;&quot;&gt;count=0; found=0; innerIters=0;&lt;br/&gt;bestExtra=∞; bestSurface=∞;&lt;br/&gt;bestL=bestW=bestH=0&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="320" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--18" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--15" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;l = 1&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="375" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--25" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--17" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=0.019;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;entryPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--26" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="да" vertex="1">
+          <mxGeometry relative="1" x="0.1481" y="2" as="geometry">
+            <mxPoint x="-2" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;l ≤ N?&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="350" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--19" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Вывод count, лучшей коробки&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="520" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--20" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--17" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--21" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="нет" vertex="1">
+          <mxGeometry relative="1" x="0.0116" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span class=&quot;&quot; style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Конец&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="560" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--23" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--19" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--28" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--24" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;w = l&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="374" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--30" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--27" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--31" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="нет" vertex="1">
+          <mxGeometry relative="1" x="-0.1546" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--34" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--27" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--35" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="да" vertex="1">
+          <mxGeometry relative="1" x="-0.2603" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--27" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;w ≤ N?&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="128" x="350" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--32" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="xXC6Xfw8Lg3ceazjtzG--17">
+          <mxGeometry relative="1" x="-0.3057" as="geometry">
+            <mxPoint x="210" y="580" as="sourcePoint" />
+            <mxPoint x="230" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;l = l + 1&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="180" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--37" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--33" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xXC6Xfw8Lg3ceazjtzG--36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.9999999999999" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;h = w&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="94" x="367" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--40" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--36" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--41" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="нет" vertex="1">
+          <mxGeometry relative="1" x="-0.0167" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--36" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;h ≤ N?&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="115" x="355.75" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--42" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--39" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" x="-0.3967" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="600" />
+            </Array>
+            <mxPoint x="480" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;w = w + 1&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="94" x="560" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--48" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--43" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="xXC6Xfw8Lg3ceazjtzG--47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Vc = l·w·h&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="107" x="355.75" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--44" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--36" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="809.9999999999999" as="sourcePoint" />
+            <mxPoint x="413" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--46" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="да" vertex="1">
+          <mxGeometry relative="1" x="0.2889" y="-1" as="geometry">
+            <mxPoint x="2" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--50" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--47" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--51" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="да" vertex="1">
+          <mxGeometry relative="1" x="-0.0216" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--54" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--47" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.528;entryY=-0.069;entryDx=0;entryDy=0;entryPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--55" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="нет" vertex="1">
+          <mxGeometry relative="1" x="-0.5844" y="-3" as="geometry">
+            <mxPoint x="2" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--47" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Vc &amp;lt; V?&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="137.5" x="340.5" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--53" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--49" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.475;exitY=-0.012;exitDx=0;exitDy=0;exitPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--36">
+          <mxGeometry relative="1" x="-0.0978" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="760" />
+            </Array>
+            <mxPoint x="330" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;h = h + 1&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="107" x="180" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--58" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--56" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;&amp;nbsp;&lt;span class=&quot;&quot;&gt;S&lt;/span&gt;= 2(lw + lh + wh)&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="145" x="335" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--61" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--57" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.448;entryY=1.018;entryDx=0;entryDy=0;entryPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--49">
+          <mxGeometry relative="1" x="0.0395" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="1180" />
+            </Array>
+            <mxPoint x="230" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--62" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="да" vertex="1">
+          <mxGeometry relative="1" x="-0.5365" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--64" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--57" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--65" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="нет" vertex="1">
+          <mxGeometry relative="1" x="-0.1922" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--57" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;S &amp;gt; A?&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="145" x="335" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;count = count + 1; found = 1&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="194.01" x="312.99" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--69" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--66" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.519;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--66" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;Вывод l, w, h, Vc, S&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="172.5" x="320" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--67" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--63" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.519;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;extra = Vc − V&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="349.99" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--73" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--71" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.289;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--49">
+          <mxGeometry relative="1" x="-0.7791" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1655" />
+            </Array>
+            <mxPoint x="274.63" y="1486.48" as="sourcePoint" />
+            <mxPoint x="210" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--74" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="нет" vertex="1">
+          <mxGeometry relative="1" x="-0.7791" y="-3" as="geometry">
+            <mxPoint x="17" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--77" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--71" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="xXC6Xfw8Lg3ceazjtzG--76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--78" connectable="0" parent="xXC6Xfw8Lg3ceazjtzG--77" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="да" vertex="1">
+          <mxGeometry relative="1" x="-0.2689" y="2" as="geometry">
+            <mxPoint x="-2" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--71" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="extra &amp;lt; bestExtra или (extra == bestExtra и S &amp;lt; bestArea)?" vertex="1">
+          <mxGeometry height="110" width="328.91" x="245.54" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--72" edge="1" parent="1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xXC6Xfw8Lg3ceazjtzG--71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1540" as="sourcePoint" />
+            <mxPoint x="410" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--80" edge="1" parent="1" source="xXC6Xfw8Lg3ceazjtzG--76" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.097;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--49">
+          <mxGeometry relative="1" x="-0.6536" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="2030" />
+              <mxPoint x="190" y="2030" />
+            </Array>
+            <mxPoint x="170" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xXC6Xfw8Lg3ceazjtzG--76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span class=&quot;&quot; style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;bestExtra=extra; bestArea=S; bestL=l; bestW=w; bestH=h&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="330" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="KkX8JqSrHdXb-aF29jgh-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: start;&quot;&gt;innerIters =&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 14px; text-align: start;&quot;&gt; innerIters + 1&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="128" x="350" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="KkX8JqSrHdXb-aF29jgh-3" edge="1" parent="1" source="KkX8JqSrHdXb-aF29jgh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.544;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" target="xXC6Xfw8Lg3ceazjtzG--43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
